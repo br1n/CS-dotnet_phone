@@ -1,0 +1,10 @@
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_2/phone/obj/Debug/netcoreapp2.0/phone.csproj.CoreCompileInputs.cache
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_2/phone/obj/Debug/netcoreapp2.0/phone.AssemblyInfoInputs.cache
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_2/phone/obj/Debug/netcoreapp2.0/phone.AssemblyInfo.cs
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_2/phone/bin/Debug/netcoreapp2.0/phone.deps.json
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_2/phone/bin/Debug/netcoreapp2.0/phone.runtimeconfig.json
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_2/phone/bin/Debug/netcoreapp2.0/phone.runtimeconfig.dev.json
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_2/phone/bin/Debug/netcoreapp2.0/phone.dll
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_2/phone/bin/Debug/netcoreapp2.0/phone.pdb
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_2/phone/obj/Debug/netcoreapp2.0/phone.dll
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_2/phone/obj/Debug/netcoreapp2.0/phone.pdb
